@@ -10,8 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Exam1</artifactId>
-    <packaging>pom</packaging>
-
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>
         <finalName>app_exam1</finalName><!--你的jar文件的名字-->
@@ -42,5 +40,6 @@
             </plugin>
         </plugins>
     </build>
+
 
 </project>
